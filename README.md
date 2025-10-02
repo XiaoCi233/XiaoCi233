@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @XiaoCi233
-- 👀 I’m interested in 爪哇
-- 🌱 I’m currently learning 圈钱
-GET GOOD GET STARLINGHT
+![header-bg](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
 
-<!---
-XiaoCi233/XiaoCi233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://github.com/XiaoCi233">
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=XiaoCi233&data=followers,repositories,stars,commits" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,electron,bootstrap,dotnet&tools=git,docker,npm,nodejs,nginx,jupyter,gradle" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=javascript,java,php,python,html,css,c,cpp,csharp,go,bash,json,mysql,lua" />
+  </a>
+</p>
+
+![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
