@@ -5,6 +5,7 @@
     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=XiaoCi233&data=followers,repositories,stars,commits" />
     <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,electron,bootstrap,dotnet&tools=git,docker,npm,nodejs,nginx,jupyter,gradle" />
     <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=javascript,java,php,python,html,css,c,cpp,csharp,go,bash,json,mysql,lua" />
+    <img src="https://github-readme-stats.vercel.app/api?username=XiaoCi233&count_private=true&show_icons=true&theme=tokyonight">
   </a>
 </p>
 
